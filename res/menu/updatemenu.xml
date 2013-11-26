@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+         <item
+        android:id="@+id/update"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:icon="@drawable/save"
+        android:title="@string/btnupdate"
+        />
+      <item
+        android:id="@+id/cancel"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:icon="@drawable/delete"
+        android:title="@string/cancel"/>
+       <item
+        android:id="@+id/help"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:icon="@drawable/help"
+        android:title="@string/help"/>
+    </menu>
+	

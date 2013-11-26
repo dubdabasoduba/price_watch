@@ -1,0 +1,27 @@
+# view AndroidManifest.xml #generated:48
+-keep class com.price_watch.Admin { <init>(...); }
+
+# view AndroidManifest.xml #generated:36
+-keep class com.price_watch.Compare { <init>(...); }
+
+# view AndroidManifest.xml #generated:45
+-keep class com.price_watch.Help { <init>(...); }
+
+# view AndroidManifest.xml #generated:42
+-keep class com.price_watch.Info { <init>(...); }
+
+# view AndroidManifest.xml #generated:51
+-keep class com.price_watch.Passcodechange { <init>(...); }
+
+# view AndroidManifest.xml #generated:54
+-keep class com.price_watch.Results { <init>(...); }
+
+# view AndroidManifest.xml #generated:39
+-keep class com.price_watch.Search { <init>(...); }
+
+# view AndroidManifest.xml #generated:33
+-keep class com.price_watch.index { <init>(...); }
+
+# view AndroidManifest.xml #generated:25
+-keep class splash.Splashscreen { <init>(...); }
+

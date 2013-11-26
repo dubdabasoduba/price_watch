@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Price Watch</string>
+    <string name="appsite">www.pricewatch.co.ke</string>
+    <string name="alertmsg">Please Fill In Your Email and Password</string>
+    <string name="alerttitle">Fill in the fields</string>
+    <string name="email">Enter Your Email Address</string>
+    <string name="emailhint">example@pricewatch.com</string>
+    <string name="password">Enter Your Password</string>
+    <string name="passhint">**********</string>
+    <string name="btnlogin">Login</string>
+    <string name="btnupdate">Update</string>
+    <string name="passins">Complete the form to change your password</string>
+    <string name="passnew">Enter new Password</string>
+    <string name="confirmpass">Confirm your Password</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="forgot">Forgot Your Password?</string>
+    <string name="register">Register</string>
+    <string name="comparison">Compare Prices</string>
+    <string name="admin">Admin</string>
+    <string name="help">Help</string>
+    <string name="aboutus">About Us</string>    
+    <string name="storeprompt">Choose a Store</string>
+    <string name="comparisoncontent">An icon for the comparison function</string>
+    <string name="admincontent">An icon for the admin function</string>
+    <string name="helpcontent">An icon for the help function</string>
+    <string name="aboutuscontent">An icon for the aboutus function</string>
+    <string name="headerlogo">The logo for the application</string>
+    <string name="footertext">CopyRights ©MephyTechnologies</string>
+    <string name="locationhint">Kahawa Sukari</string>
+    <string name="itemhint">Strawberry</string>
+    <string name="instructions">Complete the form to compare prices</string>
+    <string name="instructions1">Complete the form to Search Item prices</string>
+    <string name="login">Complete The login Form Below</string>
+    <string name="location">Enter Location</string>
+    <string name="county">Choose County</string>
+    <string name="countyprompt">Choose a County</string>
+    <string name="item">Enter Item</string>
+    <string name="storetype">Choose The Store Type</string>
+    <string name="button">Compare</string>
+    <string name="searchbtn">Search</string>
+    <string name="find">Search Products</string>
+    <string name="contentfind">An icon for searching of any product in a supermarket</string>
+    <string name="helptext">How to use the App</string>
+     <string-array name="Storetype">
+        <item>....</item>
+        <item>Shopping Mall</item>
+        <item>Supermarket</item>
+        <item>Mini-Supermarkets</item>
+        <item>Kiosk</item>
+     </string-array>
+      <string-array name="county">
+        <item>....</item>
+        <item>Nairobi</item>
+        <item>Mombabasa</item>
+        <item>Kisumu</item>
+        <item>Kiambu</item>
+        <item>Kisumu</item>
+        <item>Kajiado</item>
+        <item>Kitui</item>
+        <item>Machakos</item>
+        <item>Nyeri</item>
+        <item>Embu</item>
+        <item>Thika</item>
+        <item>Kilifi</item>
+        <item>Kericho</item>
+        <item>Muranga</item>
+        <item>Thika</item>
+        <item>Thika</item>
+        <item>Thika</item>
+        <item>Thika</item>
+        <item>Thika</item>
+        <item>Thika</item>
+     </string-array>
+
+</resources>

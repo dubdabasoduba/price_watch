@@ -1,0 +1,36 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >	
+     <item
+        android:id="@+id/compare"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:icon="@drawable/chart"
+        android:title="@string/comparison"
+        />
+      <item
+        android:id="@+id/admin"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:icon="@drawable/administrator"
+        android:title="@string/admin"/>
+       <item
+        android:id="@+id/search"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:icon="@drawable/search"
+        android:title="@string/find"/>
+    <item
+        android:id="@+id/help"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:icon="@drawable/help"
+        android:title="@string/help"/> 
+   
+    <item
+        android:id="@+id/aboutus"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:icon="@drawable/info"
+        android:title="@string/aboutus"/>
+    
+
+</menu>
