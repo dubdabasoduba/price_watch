@@ -7,30 +7,7 @@
  <RelativeLayout
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-         android:background="#ffffff">
- 
-        <!--  Header  Starts-->
-        <LinearLayout android:id="@+id/header"
-                android:layout_width="fill_parent"
-                android:layout_height="80dp"
-                android:background="@layout/header_gradient"
-                android:paddingTop="5dip"
-                android:paddingBottom="5dip">
-                <!-- Logo Start-->
-                <ImageView android:src="@drawable/logo"
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:layout_marginLeft="10dip"
-                            android:contentDescription="@string/headerlogo" />
-                <!-- Logo Ends -->
-        </LinearLayout>
-        <!--  Header Ends -->
-
-        <RelativeLayout
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentTop="true"
+         android:background="#ffffff"
             android:orientation="vertical"
             android:padding="10dip" >
 
@@ -43,7 +20,7 @@
 		        android:text="@string/helptext"
 		        android:textAppearance="?android:attr/textAppearanceMedium"
 		        android:paddingLeft="70dp"
-		        android:layout_marginTop="75dp" />
+		        android:layout_marginTop="20dp" />
 
             <TextView
                 android:id="@+id/textView2"
@@ -56,6 +33,5 @@
                 android:textAppearance="?android:attr/textAppearanceMedium" />
 
 
-        </RelativeLayout>  		   
-        </RelativeLayout>
+        </RelativeLayout> 
         </ScrollView>

@@ -8,35 +8,7 @@
  <RelativeLayout
      android:layout_width="fill_parent"
      android:layout_height="wrap_content"
-     android:background="#ffffff" >
-
-     <!-- Header  Starts -->
-
-     <LinearLayout
-         android:id="@+id/header"
-         android:layout_width="fill_parent"
-         android:layout_height="80dp"
-         android:background="@layout/header_gradient"
-         android:paddingBottom="5dip"
-         android:paddingTop="5dip" >
-
-         <!-- Logo Start -->
-
-         <ImageView
-             android:layout_width="wrap_content"
-             android:layout_height="wrap_content"
-             android:layout_marginLeft="10dip"
-             android:contentDescription="@string/headerlogo"
-             android:src="@drawable/logo" />
-         <!-- Logo Ends -->
-     </LinearLayout>
-     <!-- Header Ends -->
-
-     <RelativeLayout
-         android:layout_width="match_parent"
-         android:layout_height="match_parent"
-         android:layout_alignParentLeft="true"
-         android:layout_alignParentTop="true"
+     android:background="#ffffff"
          android:orientation="vertical"
          android:padding="10dip">
 
@@ -51,7 +23,6 @@
 
 
      </RelativeLayout>   
-    
- </RelativeLayout>
+
 
         </ScrollView>

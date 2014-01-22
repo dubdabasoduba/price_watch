@@ -48,47 +48,46 @@ public final class R {
         public static final int user=0x7f020014;
     }
     public static final class id {
-        public static final int aboutus=0x7f090025;
-        public static final int admin=0x7f090023;
-        public static final int btnlogin=0x7f090014;
-        public static final int btnupdate=0x7f09001b;
-        public static final int cancel=0x7f090027;
-        public static final int compare=0x7f090009;
-        public static final int countyspinner=0x7f09001d;
-        public static final int email=0x7f090012;
-        public static final int email2=0x7f090017;
-        public static final int forgot=0x7f090015;
-        public static final int header=0x7f090000;
-        public static final int help=0x7f090024;
-        public static final int imageView1=0x7f090001;
-        public static final int imgLogo=0x7f090021;
-        public static final int instruction=0x7f090002;
-        public static final int item=0x7f090006;
-        public static final int itemsearch=0x7f09001f;
-        public static final int listView1=0x7f09001c;
-        public static final int localhost=0x7f090022;
-        public static final int location=0x7f090004;
-        public static final int login=0x7f090026;
-        public static final int passchange=0x7f090018;
-        public static final int passconfirm=0x7f09001a;
-        public static final int passnew=0x7f090019;
-        public static final int password=0x7f090013;
-        public static final int register=0x7f090016;
-        public static final int screenadmin=0x7f09000c;
-        public static final int screencompare=0x7f09000b;
-        public static final int screenhelp=0x7f09000e;
-        public static final int screeninfo=0x7f090010;
-        public static final int screensearch=0x7f09000d;
-        public static final int search=0x7f090020;
-        public static final int stores=0x7f09001e;
-        public static final int storetype=0x7f090007;
-        public static final int storetypespinner=0x7f090008;
-        public static final int textView1=0x7f09000a;
-        public static final int textView2=0x7f090003;
-        public static final int textView3=0x7f090005;
-        public static final int textView4=0x7f09000f;
-        public static final int textView5=0x7f090011;
-        public static final int update=0x7f090028;
+        public static final int aboutus=0x7f090024;
+        public static final int admin=0x7f090022;
+        public static final int btnlogin=0x7f090013;
+        public static final int btnupdate=0x7f09001a;
+        public static final int cancel=0x7f090026;
+        public static final int compare=0x7f090008;
+        public static final int countyspinner=0x7f09001c;
+        public static final int email=0x7f090011;
+        public static final int email2=0x7f090016;
+        public static final int forgot=0x7f090014;
+        public static final int help=0x7f090023;
+        public static final int imageView1=0x7f090000;
+        public static final int imgLogo=0x7f090020;
+        public static final int instruction=0x7f090001;
+        public static final int item=0x7f090005;
+        public static final int itemsearch=0x7f09001e;
+        public static final int listView1=0x7f09001b;
+        public static final int localhost=0x7f090021;
+        public static final int location=0x7f090003;
+        public static final int login=0x7f090025;
+        public static final int passchange=0x7f090017;
+        public static final int passconfirm=0x7f090019;
+        public static final int passnew=0x7f090018;
+        public static final int password=0x7f090012;
+        public static final int register=0x7f090015;
+        public static final int screenadmin=0x7f09000b;
+        public static final int screencompare=0x7f09000a;
+        public static final int screenhelp=0x7f09000d;
+        public static final int screeninfo=0x7f09000f;
+        public static final int screensearch=0x7f09000c;
+        public static final int search=0x7f09001f;
+        public static final int stores=0x7f09001d;
+        public static final int storetype=0x7f090006;
+        public static final int storetypespinner=0x7f090007;
+        public static final int textView1=0x7f090009;
+        public static final int textView2=0x7f090002;
+        public static final int textView3=0x7f090004;
+        public static final int textView4=0x7f09000e;
+        public static final int textView5=0x7f090010;
+        public static final int update=0x7f090027;
     }
     public static final class layout {
         public static final int about=0x7f030000;
@@ -161,6 +160,15 @@ public final class R {
     }
     public static final class style {
         /** 
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    
+
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        
+
         Base application theme for API 11+. This theme completely replaces
         AppBaseTheme from res/values/styles.xml on API 11+ devices.
     
@@ -172,21 +180,10 @@ public final class R {
     
  API 14 theme customizations can go here. 
          */
-        public static final int AppBaseTheme=0x7f070002;
-        /** 
-        Base application theme, dependent on API level. This theme is replaced
-        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
-    
-
-            Theme customizations available in newer API levels can go in
-            res/values-vXX/styles.xml, while customizations related to
-            backward-compatibility can go here.
-        
-         */
-        public static final int pricewatch=0x7f070000;
+        public static final int AppBaseTheme=0x7f070000;
         /**  Application theme. 
  All customizations that are NOT specific to a particular API-level can go here. 
          */
-        public static final int pricewatch_NoActionBar=0x7f070001;
+        public static final int AppTheme=0x7f070001;
     }
 }
